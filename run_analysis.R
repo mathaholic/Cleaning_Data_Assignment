@@ -10,7 +10,6 @@
 ##I perfer to use the dplyr package to make the modeling easier.
 
 library(dplyr)
-
 ##Get all the files into R
 #This brings in all the information, so we'll have to carefully choose our data
 ## I am naming each data.frame after its file name so I do not accidentally add in
